@@ -2,25 +2,31 @@ public class Testclass
 {
 
 
-public void addavalue()
+public void addaValue()
 {
 
 }
 
-public void deletevalue()
+public void deleteValue()
 {
 
 }
 
-public void savevalue()
+public void saveValue()
 {
-
+sysout("now i am trying reset")
 }
 
 public void myetry()
 {
+sysout(
+" This is my branch and i am handling the git having version 2.16")
 }
 
+prpublic void priyaStudy()
+{
+sysout ("this is the first branch after reseting to second commit")
+}
 
 
 }
